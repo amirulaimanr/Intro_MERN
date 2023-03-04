@@ -1,0 +1,17 @@
+{
+  "name": "mongo_raw_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo_raw_crud.js",
+  "scripts": {
+    "start": "node mongo_raw_crud.js",
+    "dev": "nodemon mongo_raw_crud.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.1.0",
+    "nodemon": "^2.0.21"
+  }
+}
