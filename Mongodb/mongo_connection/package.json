@@ -1,0 +1,17 @@
+{
+  "name": "mongo_connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo_connection.js",
+  "scripts": {
+    "start": "node mongo_connection.js",
+    "dev": "nodemon mongo_connection.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.1.0",
+    "nodemon": "^2.0.21"
+  }
+}
